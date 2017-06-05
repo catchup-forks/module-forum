@@ -1,21 +1,21 @@
 {
     "name": "Forum",
     "alias": "forum",
-    "description": "Forum Module for Phoenix CMS",
+    "description": "Forum Module for CleanSoft",
     "authors": [
         { "name": "xLink (Dan Aldridge)", "email": "xLink@cybershade.org" }
     ],
     "keywords": [
         "first-party"
     ],
-    "version": "v1.0.0",
+    "version": "v5.4.0",
     "active": 1,
     "order": 10,
     "providers": [
-        "Cms\\Modules\\Forum\\Providers\\ForumModuleServiceProvider",
-        "Cms\\Modules\\Forum\\Providers\\ForumEventsProvider",
-        "Cms\\Modules\\Forum\\Providers\\ForumRoutingProvider",
-        "Cms\\Modules\\Forum\\Providers\\ForumModelsProvider"
+        "App\\Modules\\Forum\\Providers\\ForumModuleServiceProvider",
+        "App\\Modules\\Forum\\Providers\\ForumEventsProvider",
+        "App\\Modules\\Forum\\Providers\\ForumRoutingProvider",
+        "App\\Modules\\Forum\\Providers\\ForumModelsProvider"
     ],
     "aliases": {
     },

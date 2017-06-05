@@ -1,7 +1,7 @@
 {
-    "name": "cysha/module-forum",
+    "name": "cleansoftnl/module-forum",
     "type": "pxcms-module",
-    "description": "Forum Module for PhoenixCMS",
+    "description": "Forum Module for CleanSoft",
     "license": "MIT",
     "authors": [
         { "name": "xLink", "email": "xLink@cybershade.org" }
